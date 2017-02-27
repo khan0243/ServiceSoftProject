@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Service Soft</string>
+    <string name="customerButton"> Customer </string>
+    <string name="jobsButton"> Jobs </string>
+    <string name="estimateButton"> Estimates </string>
+    <string name="customerName"> Customer Name</string>
+    <string name="enterCustomerName">enter customer name here</string>
+    <string name="enterCustomerPhone"> Phone number </string>
+    <string name="enterCustomerPhoneNumberNumber"> enter number only </string>
+    <string name="customerAddress"> Enter your Address Here </string>
+    <string name="streetName"> Street Name </string>
+    <string name="cityName"> City: </string>
+    <string name="provinceName"> Province: </string>
+    <string name="enterPersonName"> Enter Name Here</string>
+    <string name="newJob"> Please enter Job description </string>
+    <string name="jobDescription"> Description: </string>
+    <string name="jobDescriptionBox"> Enter Job Details here </string>
+    <string name="jobDateAndTime"> Enter the date and time requested </string>
+    <string name="addJobButton"> Confirm Job </string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="addCustomerButton">Add</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
